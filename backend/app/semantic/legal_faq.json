@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "text": "An NDA (Non-Disclosure Agreement) is a legal contract that prevents parties from sharing confidential information. It outlines what information is confidential, how it can be used, and penalties for disclosure.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 2,
+    "text": "A non-compete clause prevents an employee from working with competitors or starting a competing business for a certain time and within a specific area after leaving a job.",
+    "topic": "Employment"
+  },
+  {
+    "id": 3,
+    "text": "A rental agreement is a contract between a landlord and tenant that defines the terms of occupying a property including rent, duration, responsibilities, and rules.",
+    "topic": "Property"
+  },
+  {
+    "id": 4,
+    "text": "Copyright protects original creative works such as music, writing, art, and software. It gives the creator exclusive rights to reproduce and distribute their work.",
+    "topic": "Intellectual Property"
+  },
+  {
+    "id": 5,
+    "text": "A breach of contract occurs when one party fails to fulfill the terms and obligations agreed upon. Remedies include damages, specific performance, or cancellation.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 6,
+    "text": "An indemnity clause requires one party to compensate the other for losses or damages arising from specific situations.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 7,
+    "text": "A notice period is the time an employee or employer must give before ending an employment contract.",
+    "topic": "Employment"
+  },
+  {
+    "id": 8,
+    "text": "Termination without cause occurs when an employer lets an employee go for non-disciplinary reasons. The employee may be entitled to severance pay.",
+    "topic": "Employment"
+  },
+  {
+    "id": 9,
+    "text": "A trademark is a symbol, word, phrase, or design that identifies a brand and distinguishes its goods or services from competitors.",
+    "topic": "Intellectual Property"
+  },
+  {
+    "id": 10,
+    "text": "A security deposit is money paid by a tenant to a landlord as protection against damages or unpaid rent. It is usually refundable.",
+    "topic": "Property"
+  },
+  {
+    "id": 11,
+    "text": "A service agreement outlines the terms under which one party provides services to another including scope, payment, timelines, and responsibilities.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 12,
+    "text": "Defamation is making false statements that harm a person's reputation. Written defamation is libel; spoken is slander.",
+    "topic": "Civil Law"
+  },
+  {
+    "id": 13,
+    "text": "An arbitration clause requires disputes to be resolved through private arbitration instead of traditional courts.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 14,
+    "text": "A legal heir is a person entitled to inherit property or assets of a deceased individual under succession laws.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 15,
+    "text": "Domestic violence includes physical, emotional, verbal, or economic abuse within domestic relationships.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 16,
+    "text": "A will is a legal document that specifies how a person's assets should be distributed after their death.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 17,
+    "text": "A consumer complaint is filed when a buyer faces issues with defective products, unfair pricing, or poor services. Remedies include refunds, replacements, or compensation.",
+    "topic": "Consumer Law"
+  },
+  {
+    "id": 18,
+    "text": "An FIR (First Information Report) is a written document prepared by police when a cognizable offense is reported. It begins the criminal investigation.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 19,
+    "text": "Bail is the temporary release of an accused person from custody in exchange for a financial guarantee they will appear in court.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 20,
+    "text": "An employment contract defines the terms between employer and employee including salary, responsibilities, hours, benefits, and termination conditions.",
+    "topic": "Employment"
+  },
+  {
+    "id": 21,
+    "text": "A power of attorney (POA) is a legal document allowing one person to act on behalf of another in financial, medical, or legal matters.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 22,
+    "text": "A partnership deed outlines the terms between business partners including profit-sharing, responsibilities, and exit procedures.",
+    "topic": "Business Law"
+  },
+  {
+    "id": 23,
+    "text": "A promissory note is a written promise by one party to repay a specific sum to another either on demand or on a fixed date.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 24,
+    "text": "A mortgage is a legal agreement where a borrower uses property as security for a loan.",
+    "topic": "Property"
+  },
+  {
+    "id": 25,
+    "text": "A patent grants the inventor exclusive rights to make, use, and sell an invention for a limited period.",
+    "topic": "Intellectual Property"
+  },
+  {
+    "id": 26,
+    "text": "A cybercrime complaint can be filed for offenses such as online fraud, hacking, cyberbullying, or identity theft.",
+    "topic": "Cyber Law"
+  },
+  {
+    "id": 27,
+    "text": "A restraining order legally prevents a person from contacting or approaching another individual.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 28,
+    "text": "A gift deed transfers ownership of movable or immovable property from one person to another without consideration.",
+    "topic": "Property"
+  },
+  {
+    "id": 29,
+    "text": "A merger agreement legally combines two companies and defines terms such as valuation, transfer of assets, and liabilities.",
+    "topic": "Business Law"
+  },
+  {
+    "id": 30,
+    "text": "A consumer warranty guarantees the quality or performance of a product and assures free repair or replacement if it fails.",
+    "topic": "Consumer Law"
+  },
+  {
+    "id": 31,
+    "text": "A guardianship order appoints a person to take legal responsibility for a minor or an adult incapable of self-care.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 32,
+    "text": "Trespassing involves entering another person's property without permission and is punishable by law.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 33,
+    "text": "A shareholder agreement outlines rights, responsibilities, and dispute-resolution methods among a company's shareholders.",
+    "topic": "Business Law"
+  },
+  {
+    "id": 34,
+    "text": "A confidentiality clause prevents parties from revealing sensitive business information during or after a contract.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 35,
+    "text": "Alimony is financial support one spouse may be required to pay the other after separation or divorce.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 36,
+    "text": "Cheating in legal terms refers to deceiving someone dishonestly to cause wrongful gain or loss.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 37,
+    "text": "A digital signature is an electronic method used to authenticate documents and verify the identity of the signer.",
+    "topic": "Cyber Law"
+  },
+  {
+    "id": 38,
+    "text": "A sale deed legally transfers property ownership from seller to buyer and includes details like consideration and boundaries.",
+    "topic": "Property"
+  },
+  {
+    "id": 39,
+    "text": "A lease agreement grants the tenant the right to use a property for a long-term period, usually more than 12 months.",
+    "topic": "Property"
+  },
+  {
+    "id": 40,
+    "text": "Harassment laws protect individuals from unwanted behavior including physical, verbal, or online actions that cause distress.",
+    "topic": "Civil Law"
+  },
+  {
+    "id": 41,
+    "text": "The Right to Information (RTI) Act allows citizens to request information from government authorities. It promotes transparency by giving individuals the ability to obtain copies of records, inspect documents, and understand how public authorities make decisions. Government bodies must respond within a specific timeframe, usually 30 days.",
+    "topic": "Administrative Law"
+  },
+  {
+    "id": 42,
+    "text": "Force majeure is a contract clause that frees both parties from liability when unexpected events such as natural disasters, wars, or government restrictions prevent one or both parties from fulfilling their obligations. It ensures fairness when circumstances are beyond human control.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 43,
+    "text": "A child custody order determines which parent has legal and/or physical responsibility for a child after separation or divorce. Courts consider the child's welfare, financial stability of parents, living arrangement, and emotional bonds before making a decision. Custody can be joint, sole, or shared in different forms.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 44,
+    "text": "A business license is an official permit issued by the government that allows individuals or companies to conduct business legally. Different industries require specific licenses for safety, taxation, and regulatory compliance.",
+    "topic": "Business Law"
+  },
+  {
+    "id": 45,
+    "text": "A data protection policy outlines how an organization collects, stores, uses, and safeguards personal information. It ensures compliance with data privacy laws and prevents misuse or unauthorized access of sensitive data.",
+    "topic": "Cyber Law"
+  },
+  {
+    "id": 46,
+    "text": "The concept of mens rea refers to the mental state or intention behind committing a crime. In criminal law, establishing guilt often requires proving both the act itself (actus reus) and the intention or knowledge of wrongdoing (mens rea). Without intent, some crimes cannot be punished.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 47,
+    "text": "A franchise agreement is a legal contract granting a franchisee the right to operate a business under the brand name, business model, and guidance of a franchisor. It covers fees, training, marketing obligations, territory rights, quality standards, and dispute resolution. The agreement protects the brand while giving entrepreneurs an opportunity to operate a ready-made business model.",
+    "topic": "Business Law"
+  },
+  {
+    "id": 48,
+    "text": "A settlement agreement is a legally binding document where disputing parties agree to resolve their conflict outside court. It usually involves compensation, obligations, confidentiality requirements, and a clause that both parties waive future claims on the same matter.",
+    "topic": "Civil Law"
+  },
+  {
+    "id": 49,
+    "text": "The doctrine of vicarious liability holds employers responsible for wrongful acts committed by their employees within the scope of employment. For example, if a delivery driver injures someone while performing job duties, the employer may be liable, even if the employer was not directly involved in the act.",
+    "topic": "Tort Law"
+  },
+  {
+    "id": 50,
+    "text": "A prenup (prenuptial agreement) is a contract created before marriage that outlines ownership of assets, financial responsibilities, and how property will be divided if the marriage ends. It protects individual assets and reduces conflicts during separation or divorce.",
+    "topic": "Family Law"
+  },
+  {
+    "id": 51,
+    "text": "Environmental impact assessments (EIAs) evaluate how a proposed project like a factory, dam, or highway will affect the environment. It assesses impacts on air, water, wildlife, and local communities, and may suggest mitigation measures. Governments require EIAs before approving major infrastructure or industrial projects.",
+    "topic": "Environmental Law"
+  },
+  {
+    "id": 52,
+    "text": "A class action lawsuit is a legal case where a group of people with similar grievances collectively file a claim against a common defendant. It is used when individual lawsuits would be inefficient or too expensive, such as in cases involving defective products, data breaches, or unfair business practices.",
+    "topic": "Civil Law"
+  },
+  {
+    "id": 53,
+    "text": "A probation order allows a convicted person to remain in the community under supervision instead of going to jail. Conditions may include regular reporting, staying away from certain individuals or places, community service, or attending counseling. Violating probation can lead to imprisonment.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 54,
+    "text": "The doctrine of consideration states that for a contract to be legally valid, both parties must exchange something of value. This could be money, goods, services, or a promise. Without consideration, most agreements are not enforceable in court.",
+    "topic": "Contracts"
+  },
+  {
+    "id": 55,
+    "text": "Consumer recall laws require manufacturers to withdraw unsafe or defective products from the market. When a product poses risks such as fire hazards, contamination, or malfunction, companies must notify consumers, repair or replace the item, or provide a refund. These laws protect public safety and ensure accountability.",
+    "topic": "Consumer Law"
+  },
+  {
+    "id": 56,
+    "text": "The doctrine of natural justice refers to basic principles that ensure fairness in any legal or administrative decision. It includes two core rules: (1) No one should be a judge in their own case, meaning decisions must be taken by unbiased authorities, and (2) Every person must be given a fair opportunity to be heard before any action is taken against them. These principles apply not only in courts but also in government decisions, school disciplinary actions, employment terminations, and corporate inquiries. Violating natural justice can make any decision invalid.",
+    "topic": "Administrative Law"
+  },
+  {
+    "id": 57,
+    "text": "The concept of strict liability in tort law holds a person or company legally responsible for harm caused by their actions or products, even if they were not negligent or intending to cause harm. It is commonly used in cases involving defective products, hazardous activities like storing explosives, and harm caused by animals. For example, if a company sells a faulty appliance that explodes, the consumer does not need to prove negligence—only that the product caused damage. Strict liability ensures higher safety standards and protects the public.",
+    "topic": "Tort Law"
+  },
+  {
+    "id": 58,
+    "text": "The doctrine of separation of powers divides government authority into three branches—legislative, executive, and judicial—to prevent any one branch from becoming too powerful. The legislature makes laws, the executive implements them, and the judiciary interprets them. This system creates checks and balances, meaning each branch can restrict or review the actions of the others. For example, courts can strike down unconstitutional laws, and legislatures can amend laws to correct misuse. The doctrine protects democracy and individual rights.",
+    "topic": "Constitutional Law"
+  },
+  {
+    "id": 59,
+    "text": "The Right to Equality prohibits discrimination based on religion, caste, gender, race, or place of birth. It ensures equal treatment under the law and equal access to public opportunities like education, employment, and public spaces. This right also includes equal protection of laws, meaning the government must treat similar cases alike while allowing reasonable classifications for public welfare. It forms the foundation of many anti-discrimination laws and workplace policies that promote fairness.",
+    "topic": "Constitutional Law"
+  },
+  {
+    "id": 60,
+    "text": "Money laundering laws criminalize the process of making illegally obtained money appear legitimate. The process typically involves three stages: placement (putting illegal money into the financial system), layering (hiding its origin through multiple transactions), and integration (bringing the money back as ‘clean’ funds). Governments require banks and financial institutions to report suspicious activities, verify customer identity (KYC), and maintain proper records. These laws help fight corruption, drug trafficking, tax evasion, and funding of terrorism.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 61,
+    "text": "The concept of adverse possession allows a person who has occupied land openly, continuously, and without the owner's permission for a legally specified period to claim ownership of that land. The idea is that the law should favor individuals who actively use and care for land rather than owners who abandon it. However, strict conditions apply: possession must be hostile (without consent), open, continuous, exclusive, and for the required number of years. It prevents land from remaining unused and helps resolve long-standing disputes.",
+    "topic": "Property Law"
+  },
+  {
+    "id": 62,
+    "text": "The principle of proportionality ensures that government actions affecting fundamental rights must be reasonable, necessary, and not excessive. For example, if the government restricts freedom of movement for public safety, the restriction must be the least restrictive option. Courts use proportionality to review laws related to surveillance, censorship, policing, and national security. It maintains a balance between individual rights and state interests.",
+    "topic": "Constitutional Law"
+  },
+  {
+    "id": 63,
+    "text": "A collective bargaining agreement is a contract between employers and a group of employees—usually represented by a union—that defines wages, working hours, benefits, safety rules, and grievance procedures. It ensures workers have a unified voice and prevents unfair labor practices. Negotiations must follow good-faith rules, meaning both sides must meet, discuss, and try to reach an agreement honestly. These agreements protect employees from arbitrary decisions and create stability in the workplace.",
+    "topic": "Employment Law"
+  },
+  {
+    "id": 64,
+    "text": "A privacy policy is a legal statement explaining how an organization collects, stores, uses, and protects personal data such as names, emails, location, browsing activity, or payment details. It must disclose whether the data is shared with third parties, how long it is stored, and the rights users have to access or delete their data. With increasing online activity, privacy policies ensure transparency and protect users against misuse, identity theft, and unauthorized tracking.",
+    "topic": "Cyber Law"
+  },
+  {
+    "id": 65,
+    "text": "The doctrine of estoppel prevents a person from going back on a promise if another person has relied on that promise to their detriment. For example, if a landlord promises not to increase rent for a year and the tenant invests in renovations because of this assurance, the landlord cannot suddenly raise the rent. Estoppel is used in both contract and property disputes to uphold fairness and prevent manipulation or dishonesty.",
+    "topic": "Civil Law"
+  },
+  {
+    "id": 66,
+    "text": "The Juvenile Justice Act provides a legal framework for the care, protection, and rehabilitation of children in conflict with the law. Instead of treating minors like adult offenders, it focuses on reform, education, counseling, and reintegration into society. Juvenile courts handle these cases privately to protect the child's identity and ensure a supportive environment for rehabilitation.",
+    "topic": "Juvenile Law"
+  },
+  {
+    "id": 67,
+    "text": "The Limitation Act sets deadlines within which legal cases must be filed. If a case is filed after the limitation period expires, courts generally refuse to hear it unless there is a strong and valid reason for the delay. This law ensures cases are brought promptly while evidence is fresh and prevents indefinite legal uncertainty.",
+    "topic": "Procedural Law"
+  },
+  {
+    "id": 68,
+    "text": "The Consumer Protection Act safeguards buyers from unfair trade practices, defective goods, and inadequate services. It establishes consumer courts at district, state, and national levels. Victims can seek compensation, replacement, refunds, or corrective action from companies. The law also covers misleading advertisements and online purchases.",
+    "topic": "Consumer Law"
+  },
+  {
+    "id": 69,
+    "text": "The Protection of Women from Domestic Violence Act expands the definition of domestic abuse beyond physical harm to include emotional, verbal, sexual, and economic abuse. It allows victims to seek immediate protection orders, residence rights, monetary relief, and legal assistance without needing to leave their homes.",
+    "topic": "Family/Criminal Law"
+  },
+  {
+    "id": 70,
+    "text": "The Prevention of Sexual Harassment (POSH) Act requires workplaces to provide a safe environment by forming an Internal Complaints Committee (ICC), conducting employee training, and ensuring confidentiality in complaints. It defines what constitutes sexual harassment and lays down procedures for reporting and inquiry.",
+    "topic": "Employment Law"
+  },
+  {
+    "id": 71,
+    "text": "The Negotiable Instruments Act governs financial instruments like cheques, promissory notes, and bills of exchange. It specifies rules for dishonor of cheques, including legal notices and possible imprisonment or fines for non-payment. This law increases trust in commercial transactions.",
+    "topic": "Commercial Law"
+  },
+  {
+    "id": 72,
+    "text": "The Motor Vehicles Act sets rules for road safety, driving licenses, vehicle registration, and accident compensation. It imposes penalties for drunk driving, overspeeding, and not wearing helmets or seatbelts. It also provides for insurance claims after accidents.",
+    "topic": "Traffic Law"
+  },
+  {
+    "id": 73,
+    "text": "Environmental Protection Act establishes guidelines to control pollution, protect the environment, and regulate industries that affect air, water, soil, and wildlife. Authorities can impose fines, shut down polluting factories, and enforce conservation measures.",
+    "topic": "Environmental Law"
+  },
+  {
+    "id": 74,
+    "text": "The Insolvency and Bankruptcy Code (IBC) provides a structured process for companies and individuals who are unable to repay their debts. It focuses on time-bound resolution, allowing creditors to either restructure the business or liquidate assets. The goal is to protect the economy and reduce bad loans.",
+    "topic": "Corporate Law"
+  },
+  {
+    "id": 75,
+    "text": "Right to Privacy is a fundamental right that protects individuals from unlawful surveillance, data collection, intrusions into personal life, and misuse of personal information. It applies to digital data, phone tapping, body searches, and health records. Any invasion must be justified, lawful, and proportionate.",
+    "topic": "Constitutional Law"
+  },
+  {
+    "id": 76,
+    "text": "The Arbitration and Conciliation Act promotes settling disputes outside regular courts through arbitration. It encourages faster, private, and cost-effective resolution. Parties can choose their own arbitrators, set rules, and keep proceedings confidential. Courts intervene only minimally.",
+    "topic": "Alternative Dispute Resolution"
+  },
+  {
+    "id": 77,
+    "text": "The Indian Evidence Act lays down what information can be used as proof in court. It defines admissible evidence, burden of proof, confessions, digital evidence, and witness testimony. It ensures only reliable and relevant facts influence a judge's decision.",
+    "topic": "Evidence Law"
+  },
+  {
+    "id": 78,
+    "text": "The Transfer of Property Act regulates how property (land, houses, leases, mortgages, and gifts) can be legally transferred. It sets rules for valid transfers, conditions, and rights of buyers, sellers, and tenants. It aims to prevent fraud and confusion in property dealings.",
+    "topic": "Property Law"
+  },
+  {
+    "id": 79,
+    "text": "The Wildlife Protection Act prohibits hunting endangered animals, trading wildlife products, and destroying natural habitats. It creates national parks and sanctuaries to protect biodiversity. Violations can lead to heavy fines and imprisonment.",
+    "topic": "Wildlife Law"
+  },
+  {
+    "id": 80,
+    "text": "The Companies Act governs the formation, management, and functioning of companies. It covers incorporation, directors' responsibilities, audits, shareholder rights, and corporate governance. It ensures transparency, accountability, and ethical business operations.",
+    "topic": "Corporate Law"
+  },
+  {
+    "id": 81,
+    "text": "The Indian Penal Code (IPC) defines various criminal offenses such as theft, assault, cheating, murder, and defamation. It also specifies the punishments for each offense. It forms the foundation of criminal law in India and is used by police, courts, and legal practitioners to determine what actions constitute crimes.",
+    "topic": "Criminal Law"
+  },
+  {
+    "id": 82,
+    "text": "The Code of Civil Procedure (CPC) provides detailed procedures for filing civil cases, serving notices, presenting evidence, issuing decrees, and executing judgments. It ensures fairness and transparency in civil court processes and prevents arbitrary decisions.",
+    "topic": "Procedural Law"
+  },
+  {
+    "id": 83,
+    "text": "The Right to Education Act (RTE) mandates free and compulsory education for children aged 6 to 14. Schools must follow minimum standards, avoid discrimination, and reserve seats for economically weaker sections. The law promotes universal literacy and equal access to schooling.",
+    "topic": "Education Law"
+  },
+  {
+    "id": 84,
+    "text": "The Maternity Benefit Act ensures female employees receive paid maternity leave, job protection during pregnancy, and medical bonuses. It prohibits employers from dismissing women due to pregnancy and ensures safe working conditions.",
+    "topic": "Employment Law"
+  },
+  {
+    "id": 85,
+    "text": "The Prevention of Money Laundering Act (PMLA) targets individuals and organizations involved in concealing illegal money. It empowers authorities to freeze assets, conduct investigations, and prosecute offenders. Banks must report suspicious transactions.",
+    "topic": "Financial Law"
+  },
+  {
+    "id": 86,
+    "text": "The Information Technology Act regulates online activities, cybercrimes, electronic signatures, digital contracts, and data privacy. It also penalizes hacking, identity theft, stalking, and online fraud. The law enables secure digital transactions.",
+    "topic": "Cyber Law"
+  },
+  {
+    "id": 87,
+    "text": "The Dowry Prohibition Act makes giving, taking, or demanding dowry illegal. It protects women from harassment, abuse, and financial exploitation related to marriage. Violations can lead to imprisonment and fines.",
+    "topic": "Family/Criminal Law"
+  },
+  {
+    "id": 88,
+    "text": "The Sexual Offences Act (POCSO) protects children from sexual abuse, harassment, and exploitation. It mandates child-friendly investigation procedures, fast-track courts, and strict punishments. It prioritizes the child's safety and mental well-being.",
+    "topic": "Juvenile Law"
+  },
+  {
+    "id": 89,
+    "text": "The Land Acquisition Act outlines the government's power to acquire private land for public purposes such as highways, railways, or schools. It ensures fair compensation, rehabilitation, and public consultation before acquisition.",
+    "topic": "Property Law"
+  },
+  {
+    "id": 90,
+    "text": "The Legal Metrology Act regulates weights and measurements to protect consumers from cheating in trade. It ensures that goods are accurately labeled with weight, price, and quantity, preventing unfair business practices.",
+    "topic": "Consumer Law"
+  },
+  {
+    "id": 91,
+    "text": "The Foreign Exchange Management Act (FEMA) controls foreign currency transactions, international trade payments, and foreign investment. It helps maintain economic stability and prevent illegal financial activities.",
+    "topic": "Financial Law"
+  },
+  {
+    "id": 92,
+    "text": "The Human Rights Act protects fundamental freedoms such as equality, dignity, and protection from torture. It establishes commissions to investigate violations, recommend actions, and promote awareness of human rights.",
+    "topic": "Human Rights Law"
+  },
+  {
+    "id": 93,
+    "text": "The Drugs and Cosmetics Act ensures safety, quality, and regulation of medicines, cosmetics, and medical devices. It prohibits adulterated or misbranded drugs and regulates manufacturing standards.",
+    "topic": "Health Law"
+  },
+  {
+    "id": 94,
+    "text": "The Contract Labor Regulation Act governs the rights of contract workers. It requires employers to provide proper working conditions, timely wages, safety, and welfare facilities. It prevents exploitation of contract laborers.",
+    "topic": "Employment Law"
+  },
+  {
+    "id": 95,
+    "text": "The Competition Act prevents monopolies, unfair pricing, and anti-competitive agreements. It promotes fair market competition, protects consumers, and ensures businesses operate ethically.",
+    "topic": "Business Law"
+  },
+  {
+    "id": 96,
+    "text": "The Patents Act gives inventors exclusive rights to produce, use, or sell their inventions for a limited time. It encourages innovation while allowing public access after the patent expires.",
+    "topic": "Intellectual Property"
+  },
+  {
+    "id": 97,
+    "text": "The Goods and Services Tax (GST) Act governs indirect taxation on goods and services. It replaces multiple taxes with a single unified tax system, making trade simpler and reducing tax complications.",
+    "topic": "Taxation Law"
+  },
+  {
+    "id": 98,
+    "text": "The Advocates Act defines qualifications, rights, and responsibilities of lawyers. It establishes Bar Councils that regulate the legal profession, maintain ethical standards, and manage disciplinary actions.",
+    "topic": "Professional Law"
+  },
+  {
+    "id": 99,
+    "text": "The Disaster Management Act provides a systematic framework for preventing, preparing for, and responding to natural or man-made disasters. It creates national and state authorities to coordinate relief and rehabilitation.",
+    "topic": "Public Safety Law"
+  },
+  {
+    "id": 100,
+    "text": "The Census Act governs the collection of demographic data during national census operations. It ensures confidentiality of personal information and makes providing accurate data a legal obligation.",
+    "topic": "Administrative Law"
+  }
+]

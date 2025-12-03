@@ -1,0 +1,25 @@
+tiktoken
+numpy<2
+torch==2.2.2+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+sentence-transformers
+PyJWT
+
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+celery
+redis
+
+qdrant-client==1.6.1
+
+python-jose
+passlib[bcrypt]
+
+requests
+groq
+python-multipart
+aiofiles
+prometheus_client
